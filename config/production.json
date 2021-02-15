@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://certaindeath7:certaindeath7123@cluster0.l25ij.mongodb.net/cluster0?retryWrites=true&w=majority",
+    "jwtsecret": "myscrettoken",
+    "githubClientid": "82de710f8199d29692ed",
+    "githubsecret": "72099b2b5318c73b1728a07df4697f93d1b9be29"
+}
